@@ -1,4 +1,5 @@
 from config import GAME_CHOICES, RULES, scoreboard
+
 import random
 
 
